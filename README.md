@@ -1,2 +1,2 @@
-# ktredstore
-Ecommerce website that allows users to list product items 
+# mwebdevelpment porfolio site
+update on my project and business
